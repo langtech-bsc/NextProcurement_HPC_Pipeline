@@ -1,7 +1,6 @@
 # NextProcurement_Complete_Pipeline
 Complete NextProcurement (Internal) Pipeline. pdf2txt, NER extractor and more!
 
-WARNING: DO NOT SHARE since it contains sensitive internal info (internal path and usernames)!
 
 
 ![alt text](https://github.com/langtech-bsc/NextProcurement_Complete_Pipeline/blob/main/.img/nextprocurement_logo.jpeg "NextProcurementLogo")
