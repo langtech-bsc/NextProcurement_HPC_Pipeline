@@ -1,0 +1,4 @@
+TESSERACT CLUSTER VERSIONS:
+    -AMD:       4.1.1
+    -NORD3:     5.3.2
+    -MN:        20-03-2020

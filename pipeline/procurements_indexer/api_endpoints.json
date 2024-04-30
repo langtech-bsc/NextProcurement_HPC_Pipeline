@@ -1,0 +1,6 @@
+{
+    "complete_company_info_endpoint": "https://nextprocurement.bsc.es/api/companies/",
+    "procurement_minors_info_endpoint" :  "https://nextprocurement.bsc.es/api/place_menores/",
+    "procurement_insiders_and_outsiders_info_endpoint" : "https://nextprocurement.bsc.es/api/place/"
+    
+}

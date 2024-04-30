@@ -1,0 +1,44 @@
+ 
+certifi==2022.12.7
+charset-normalizer==3.1.0
+click==8.1.3
+cycler==0.11.0
+filelock==3.6.0
+fonttools==4.38.0
+fsspec==2022.3.0
+huggingface-hub==0.15.1
+idna==3.4
+importlib-metadata==6.6.0
+joblib==1.2.0
+kiwisolver==1.4.4
+matplotlib @ file://<INTERNAL GPFS PATH>/wheels/matplotlib-3.5.3-cp37-cp37m-manylinux_2_5_x86_64.manylinux1_x86_64.whl#sha256=94ff86af56a3869a4ae26a9637a849effd7643858a1a04dd5ee50e9ab75069a7
+nltk==3.7
+numpy==1.17.0
+opencv-python @ file://<INTERNAL GPFS PATH>/wheels/opencv_python-4.7.0.72-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=ebfc0a3a2f57716e709028b992e4de7fd8752105d7a768531c4f434043c6f9ff
+packaging==23.1
+pdf-info @ file://<INTERNAL GPFS PATH>/wheels/pdf_info-2.1.0.tar.gz#sha256=66dae03145f4c9a1ee79f33acbc9c4a05a94c2b9139a00e83a3612dadd66c50f
+pdf2image==1.16.0
+pdfminer @ file://<INTERNAL GPFS PATH>/wheels/pdfminer-20191125.tar.gz#sha256=9e700bc731300ed5c8936343c1dd4529638184198e54e91dd2b59b64a755dc01
+Pillow==8.3.0
+poppler-utils @ file://<INTERNAL GPFS PATH>/wheels/poppler_utils-0.1.0-py3-none-any.whl#sha256=a6336b4c7d59e49d339b92c60d1f63905f577ab106038bde940a6861deefd3f3
+pybind11==2.10.4
+pycryptodome @ file://<INTERNAL GPFS PATH>/wheels/pycryptodome-3.18.0.tar.gz#sha256=c9adee653fc882d98956e33ca2c1fb582e23a8af7ac82fee75bd6113c55a0413
+PyMuPDF==1.22.1
+pyparsing==3.0.9
+PyPDF2 @ file://<INTERNAL GPFS PATH>/wheels/pypdf2-3.0.1-py3-none-any.whl#sha256=d16e4205cfee272fbdc0568b68d82be796540b1537508cef59388f839c191928
+pytesseract @ file://<INTERNAL GPFS PATH>/wheels/pytesseract-0.3.10-py3-none-any.whl#sha256=8f22cc98f765bf13517ead0c70effedb46c153540d25783e04014f28b55a5fc6
+python-dateutil==2.8.2
+PyYAML==6.0
+regex==2022.10.31
+requests==2.30.0
+scikit-learn @ file://<INTERNAL GPFS PATH>/wheels/scikit_learn-1.0.2-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=16455ace947d8d9e5391435c2977178d0ff03a261571e67f627c8fee0f9d431a
+scipy==1.7.3
+six==1.16.0
+threadpoolctl==3.1.0
+tokenizers==0.12.1
+torch @ file://<INTERNAL GPFS PATH>/wheels/torch-1.9.0%2Brocm4.0.1-cp37-cp37m-linux_x86_64.whl#sha256=d5bedb87ce02a6bf6ca0aca01beb8a245a57162c4baea33c331216afc3b54755
+tqdm==4.64.0
+transformers @ file://<INTERNAL GPFS PATH>/wheels/transformers-4.26.1-py3-none-any.whl#sha256=dae2fa15290c1f526e1b629b0e235eea5e4c04078fcaf1f197a70d51b4f65df2
+typing_extensions==4.5.0
+urllib3==2.0.2
+zipp==3.15.0

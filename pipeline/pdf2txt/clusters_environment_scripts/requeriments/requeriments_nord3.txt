@@ -1,0 +1,44 @@
+certifi==2023.5.7
+charset-normalizer==3.1.0
+click==8.1.3
+cycler==0.11.0
+filelock==3.12.2
+flit-core @ file:///gpfs/projects/bsc88/wheels/flit_core-3.9.0-py3-none-any.whl
+fonttools==4.38.0
+fsspec==2023.1.0
+huggingface-hub==0.16.2
+idna==3.4
+importlib-metadata==6.7.0
+joblib==1.3.1
+kiwisolver==1.4.4
+matplotlib @ file:///gpfs/projects/bsc88/wheels/matplotlib-3.5.3-cp37-cp37m-manylinux_2_5_x86_64.manylinux1_x86_64.whl
+nltk==3.8.1
+numpy==1.21.6
+opencv-python @ file:///gpfs/projects/bsc88/wheels/opencv_python-4.8.0.76-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+packaging==23.1
+pdf-info==2.1.0
+pdf2image @ file:///gpfs/projects/bsc88/wheels/pdf2image-1.16.0-py3-none-any.whl
+pdfminer==20191125
+Pillow==9.5.0
+poppler-utils @ file:///gpfs/projects/bsc88/wheels/poppler_utils-0.1.0-py3-none-any.whl
+pycryptodome==3.18.0
+PyMuPDF==1.20.2
+pyparsing==3.1.0
+pypdf2 @ file:///gpfs/projects/bsc88/wheels/PyPDF2-3.0.1.tar.gz
+pytesseract @ file:///gpfs/projects/bsc88/wheels/pytesseract-0.3.10-py3-none-any.whl
+python-dateutil==2.8.2
+PyYAML==6.0
+regex==2023.6.3
+requests==2.31.0
+scikit-learn @ file:///gpfs/projects/bsc88/wheels/scikit_learn-1.0.2-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl
+scipy==1.7.3
+six==1.16.0
+threadpoolctl==3.1.0
+tokenizers==0.13.3
+torch @ file:///gpfs/projects/bsc88/wheels/torch-1.9.0-cp37-cp37m-manylinux1_x86_64.whl
+tqdm==4.65.0
+transformers @ file:///gpfs/projects/bsc88/wheels/transformers-4.26.1-py3-none-any.whl
+typing-extensions==4.7.1
+urllib3==2.0.3
+zipp==3.15.0
+ 
